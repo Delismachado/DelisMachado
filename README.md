@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi!
+I'm a full stack developer,
+but I really appreciate the front end,
+and right now I'm a beginner / student.
+I am a volunteer developer at Nailtime sturtup.         
 
-- 🔭 I’m currently working on Nailtime
 ### 🌱 I’m currently learning:
   - React
   - ReactNative

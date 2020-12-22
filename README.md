@@ -1,10 +1,11 @@
 ### Hi!
-I'm a full stack developer,
+I'm a full stack developer under construction,
 but I really appreciate the front end,
 and right now I'm a beginner / student.
 I am a volunteer developer at Nailtime sturtup.         
 
 ### 🌱 I’m currently learning:
+  - Python
   - React
   - ReactNative
   - JavaScript

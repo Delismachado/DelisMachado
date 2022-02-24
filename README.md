@@ -1,28 +1,21 @@
 ### Hi!
-I'm a full stack developer under construction,
-but I really appreciate the front end,
-and right now I'm a beginner / student.
-I am a volunteer developer at Nailtime sturtup.         
+I'm a back-end developer, I use Python and Golang languages to work.         
 
 ### 🌱 I’m currently learning:
+  - Golang
   - Python
-  - React
-  - ReactNative
-  - JavaScript
-  - TypeScript
-  - css
+  - Kafka
   
-### 👯 I’m looking to collaborate on:
-- Community TechLadies
 
 ### 🤔 I’m looking for help with ...
 - I'm new to technology, any tips are welcome!
 
 ### 💬 Ask me about ...
+- Python
+- Golang
 - Productivity
 - Focus
 - Learning methods
-- How to learn more
 - Organization of time
 
 ### 📫 How to reach me:

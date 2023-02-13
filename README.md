@@ -4,7 +4,6 @@ I'm a back-end developer, I use Python and Golang languages to work.
 ### 🌱 I’m currently learning:
   - Golang
   - Python
-  - Kafka
   
 
 ### 🤔 I’m looking for help with ...
@@ -21,7 +20,6 @@ I'm a back-end developer, I use Python and Golang languages to work.
 ### 📫 How to reach me:
 - Follow me here 
 - https://www.linkedin.com/in/derli-machado/
-- https://www.instagram.com/delismachado/?hl=en
 
 
 ### ⚡ Fun fact: ...
@@ -29,15 +27,3 @@ when I need to learn something, no matter how complicated, I am very focused and
 
 <!--
 **Delismachado/DelisMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Nailtime
-- 🌱 I’m currently learning React, ReactNative, JavaScript, TypeScript, css
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

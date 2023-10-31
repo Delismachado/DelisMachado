@@ -4,6 +4,7 @@ I'm a back-end developer, I use Python and Golang languages to work.
 ### 🌱 I’m currently learning:
   - Golang
   - Python
+  - Elixir
   
 
 ### 🤔 I’m looking for help with ...
